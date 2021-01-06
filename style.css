@@ -1,0 +1,116 @@
+
+   .topnav {
+    
+    color: black;
+    margin-right: 70px;
+    padding: 5px 30px;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    border: 1px solid red;
+  }
+ 
+    .topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border: 1px solid red;
+  }
+
+  .section{
+      height: 700px;
+      width: 100%;
+      border: 1px solid red;
+  }
+
+  #mainleft{
+    height: 650px;
+      width: 40%;
+      border: 1px solid saddlebrown;
+      float: left;
+      margin-top: 20px;
+  }
+  #mainright{
+      width: 40%;
+      margin-top: 20px;
+      float: right;
+  }
+  #mainright img{
+    height: 80%;
+    width: 90%;
+    border: 1px solid red;
+  }
+
+  #mainleft h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 5%;
+    color: #363958;
+    border: 1px solid red;
+  }
+
+  #mainleft p{
+    margin-left: 5%;
+    border: 1px solid red;
+    margin-top: -67px;
+    font-family: 'Roboto', sans-serif;
+
+  }
+  .colorize{
+    color: #F59660;
+  }
+
+  .buttonclass{
+    margin: 50px 38px;
+
+  }
+
+.button{
+  padding: 15px 30px;
+  border: 1px solid red;
+  background-image: linear-gradient(45deg, orange, yellow);
+  border-radius: 5px;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+ text-decoration: none;
+}
+#secleft{
+  width: 40%;
+  margin-top: 20px;
+  float: left;
+  margin-left: 5%;
+}
+#secleft img{
+  height: 80%;
+    width: 90%;
+    border: 1px solid red;
+}
+
+#secright{
+  height: 650px;
+  width: 40%;
+  border: 1px solid saddlebrown;
+  float: left;
+  margin-top: 20px;
+  margin-left: 250px;
+}
+#secright h1{
+  font-size: 80px;
+  font-weight: 700;
+  font-family: 'Bebas Neue', cursive;
+  margin-left: 5%;
+  color: #363958;
+  border: 1px solid red;
+}
+
+#secright p{
+  margin-left: 5%;
+    border: 1px solid red;
+    margin-top: -67px;
+    font-family: 'Roboto', sans-serif;
+}
