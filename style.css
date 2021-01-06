@@ -7,7 +7,6 @@
     overflow: hidden;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    border: 1px solid red;
   }
  
     .topnav a {
@@ -17,19 +16,16 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    border: 1px solid red;
   }
 
   .section{
       height: 700px;
       width: 100%;
-      border: 1px solid red;
   }
 
   #mainleft{
     height: 650px;
       width: 40%;
-      border: 1px solid saddlebrown;
       float: left;
       margin-top: 20px;
   }
@@ -41,7 +37,6 @@
   #mainright img{
     height: 80%;
     width: 90%;
-    border: 1px solid red;
   }
 
   #mainleft h1{
@@ -50,12 +45,10 @@
     font-family: 'Bebas Neue', cursive;
     margin-left: 5%;
     color: #363958;
-    border: 1px solid red;
   }
 
   #mainleft p{
     margin-left: 5%;
-    border: 1px solid red;
     margin-top: -67px;
     font-family: 'Roboto', sans-serif;
 
@@ -71,7 +64,6 @@
 
 .button{
   padding: 15px 30px;
-  border: 1px solid red;
   background-image: linear-gradient(15deg, #363958,#F59660);
   border-radius: 5px;
   color: white;
@@ -88,13 +80,11 @@
 #secleft img{
   height: 80%;
     width: 90%;
-    border: 1px solid red;
 }
 
 #secright{
   height: 650px;
   width: 40%;
-  border: 1px solid saddlebrown;
   float: left;
   margin-top: 20px;
   margin-left: 250px;
@@ -105,19 +95,16 @@
   font-family: 'Bebas Neue', cursive;
   margin-left: 5%;
   color: #363958;
-  border: 1px solid red;
 }
 
 #secright p{
   margin-left: 5%;
-    border: 1px solid red;
     margin-top: -67px;
     font-family: 'Roboto', sans-serif;
 }
 #thirdleft{
       height: 650px;
       width: 40%;
-      border: 1px solid saddlebrown;
       float: left;
       margin-top: 20px;
 }
@@ -133,11 +120,9 @@
   font-family: 'Bebas Neue', cursive;
   margin-left: 5%;
   color: #363958;
-  border: 1px solid red;
 }
 #thirdleft p{
   margin-left: 5%;
-    border: 1px solid red;
     margin-top: -67px;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -146,7 +131,6 @@
 #thirdright img{
   height: 80%;
     width: 90%;
-    border: 1px solid red;
     border-radius: 60px;
 }
 
@@ -191,7 +175,6 @@ color: rgb(43, 42, 42);
   height: 200px;
   width: 60%;
  margin-left: 540px;
-  border: 1px solid red;
   margin-top: 30px;
 }
 .workquery h2{
@@ -200,14 +183,12 @@ color: rgb(43, 42, 42);
   margin-left: 20px;
   color: white;
   font-family: 'Bebas Neue', cursive;
-  border: 1px solid red;
   font-weight: 700;
   font-size: 45px;
 }
 .newbutton{
   float: left;
   padding: 15px 30px;
-  border: 1px solid red;
   background-image: linear-gradient(15deg, #363958,#F59660);
   border-radius: 5px;
   color: white;
